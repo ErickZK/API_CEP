@@ -1,0 +1,34 @@
+[
+  {
+    "Cep": "35162-333",
+    "Bairro": "Esperança",
+    "Logadouro": "Rua Magnólia",
+    "Localidade": "Ipatinga",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "35162-332",
+    "Bairro": "Esperança",
+    "Logadouro": "Rua Madressilva",
+    "Localidade": "Ipatinga",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "35162-394",
+    "Bairro": "Cidade Nobre",
+    "Logadouro": "Avenida Monteiro Lobato",
+    "Localidade": "Ipatinga",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "35164-333",
+    "Bairro": "Novo Cruzeiro",
+    "Logadouro": "Rua Santa Luzia",
+    "Localidade": "Ipatinga",
+    "Uf": "MG",
+    "Ddd": "31"
+  }
+]
